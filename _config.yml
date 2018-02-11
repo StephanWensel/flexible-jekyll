@@ -2,8 +2,8 @@ title: Hello, world! I'm Stephan Wensel
 description: > # this means to ignore newlines until "baseurl:"
   Website of Stephan Wensel. Data Scientist in the making, football enthusiast, curious mind. Shaped in Magdeburg, based in Bielefeld.
 permalink: ':title/'
-url: http://www.stephan-wensel.de # the base hostname & protocol for your site, e.g. http://stephan-wensel.de
-baseurl: "/test/" # the subpath of your site, e.g. /blog
+url: https://stephanwensel.github.io # the base hostname & protocol for your site, e.g. http://stephan-wensel.de
+baseurl: '/flexible-jekyll/' # the subpath of your site, e.g. /blog
 site-twitter: StephanWensel #if your site has a twitter account, enter it here
 
 # Author Settings
