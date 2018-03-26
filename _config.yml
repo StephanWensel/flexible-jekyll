@@ -24,9 +24,6 @@ email: St.Wensel@gmx.de # add your Email address
 
 # Build Settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
