@@ -24,12 +24,7 @@ email: St.Wensel@gmx.de # add your Email address
 
 # Build Settings
 markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
-  extensions: fenced_code_blocks
+
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
