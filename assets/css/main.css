@@ -436,8 +436,8 @@ template {
   display: none;
 }
 
-.highlight {padding: 0.2em;font-family: "Consolas", "Liberation Mono", "Menlo", "Courier", "monospace";
-  font-size: 0.9em;line-height: 1.0em;}
+.highlight {padding: 0.5em;font-family: "Consolas", "Liberation Mono", "Menlo", "Courier", "monospace";
+  font-size: 0.9em;line-height: 1.1em;}
 
 /* breakwords on small screens */
 pre.highlight > code {display: block;white-space: pre;overflow-x: auto;word-wrap: break-word;}
