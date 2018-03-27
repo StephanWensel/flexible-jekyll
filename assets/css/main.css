@@ -437,7 +437,7 @@ template {
 }
 
 .highlight {padding: 1em;font-family: "Consolas", "Liberation Mono", "Menlo", "Courier", "monospace";
-  font-size: 0.8em;line-height: 1.2em;}
+  font-size: 1.2em;line-height: 1.4em;}
 
 /* breakwords on small screens */
 pre.highlight > code {display: block;white-space: pre;overflow-x: auto;word-wrap: break-word;}
