@@ -24,6 +24,14 @@ email: St.Wensel@gmx.de # add your Email address
 
 # Build Settings
 markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+kramdown:
+  auto_ids: true
+  input: GFM
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+enable_coderay: false
 
 plugins:
   - jekyll-sitemap
